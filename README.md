@@ -41,9 +41,13 @@ We conducted comprehensive machine learning analysis on the dataset to derive st
 15. User Classification - Random Forect Classifier to create a model and estimate accuracy of this model.
 16. Perform Bootstrapping to estimate Confidence Interval of User rating in Entertainment Category and Hypothetical Testing on influence of Gender in this Category
 
-## Conclusion
+## Final Output
 
-This project provides businesses with a method to identify and target specific users by analyzing various factors and user ratings. It also incorporates statistical analysis to help determine which user segments are most likely to engage with and support the business.
+The final output identifies the top 10 users in each category who are most likely to provide positive reviews. These users should be prioritized by businesses aiming to enhance their visibility and opportunities within specific domains.
+
+## Project Summary
+
+This project equips businesses with a data-driven approach to pinpoint and target high-potential users based on detailed analysis of user ratings and behavioral patterns. By leveraging statistical methods, it reveals key user segments that are more likely to engage with and advocate for the business, enabling more effective and focused marketing strategies.
 
 
 
